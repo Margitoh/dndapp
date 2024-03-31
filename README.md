@@ -1,6 +1,6 @@
 # dndapp
 
-A new Flutter project.
+A new Flutter project to remember Flutter. Created a simple DnD Character tracker with dice rolling (no animations).
 
 ## Getting Started
 
